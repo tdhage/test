@@ -1,7 +1,6 @@
-package com.td.test;
+package com.td.test.core;
 
 import java.io.*;
-import java.lang.reflect.Constructor;
 
 public class SingletonTest {
     public static void main(String[] args) {

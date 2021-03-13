@@ -1,4 +1,4 @@
-package com.td.test;
+package com.td.test.core;
 
 import java.io.Serializable;
 
